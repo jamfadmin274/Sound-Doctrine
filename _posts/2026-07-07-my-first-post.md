@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Thoughts on Technology and the Christian Life"
+title: "AI and the Creation Mandate"
 date: 2026-07-07
 tags: [Technology, Christian Living, Creation]
 categories: [reflection]
