@@ -1,6 +1,6 @@
 title: Theology and Tech
 description: Theology writing shaped by careful thinking and technical workflow
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 markdown: kramdown
