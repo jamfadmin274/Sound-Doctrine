@@ -16,9 +16,9 @@ Genesis 1 and 2 provide a creation mandate for mankind to subdue to the earth an
     in the image of God he created him; 
     male and female he created them. 
 
-And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+    And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
 
-Genesis 1:27–28 (ESV)
+    Genesis 1:27–28 (ESV)
 
 ## Observations
 
