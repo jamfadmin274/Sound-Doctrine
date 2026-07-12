@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Thoughts on Technology and the Christian Life"
 date: 2026-07-07
 tags: [Technology, Christian Living, Creation]
