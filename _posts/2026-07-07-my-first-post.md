@@ -28,7 +28,7 @@ Genesis 1 and 2 provide a creation mandate for mankind to subdue to the earth an
 
 ## Implications
 
-One way I believe this text applies to our day and age relates to AI and human agency. It's rather common to find people developing an overdependence on AI for their vocational work and even their everyday life decisions. Some people are even leading into AI use with the intended end that it runs their life for them, and they simply become a passive participant in their own human experience instead of it's director.
+One way I believe this text applies to our day and age relates to AI and human agency. It's rather common to find people developing an overdependence on AI for their vocational work and even their everyday life decisions. Some people are even leaning into AI use with the intended end that it runs their life for them, and they simply become a passive participant in their own human experience instead of it's director.
 
 This isn't good. This is not how God designed us to operate. We were made to rule over creation and cultivate it. To subdue the earth and make it yield more than it naturally would have otherwise. AI is the byproduct of countless generations of humans working to cultivate the earth and it's resources to the end of greater human flourishing. That's a great thing. But we should not now take the fruits of those efforts, and essentially abdicate our creational responsibilites, and even our personal agency, by submitting to a man made creation.
 
